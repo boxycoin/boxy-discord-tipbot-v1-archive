@@ -1,0 +1,54 @@
+{
+  // Bot configuration
+  "bot": {
+      "token":"Bot-Token",
+      "prefix": "!",
+      "debug": true
+  },
+  "ravend": {
+      "port": 3335,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+    "doged": {
+      "port": 3336,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "lbryd": {
+    "port": 3337,
+    "user": "username",
+    "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "protond": {
+    "port": 3338,
+    "user": "username",
+    "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "ufod": {
+    "port": 3338,
+    "user": "username",
+    "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "pxcd": {
+    "port": 3339,
+    "user": "username",
+    "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "ftcd": {
+    "port": 3340,
+    "user": "username",
+    "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+  },
+  "moderation":{
+  "pm2Name": "TipBot",
+   // Roles that have access to all commands.
+  "perms": ["Admin","Moderator","Community Leader","Bots"],
+  // Bot Devs!
+  "botDev": "Bot Developer",
+  // Channel to log the bots moderation..
+  "logchannel": "429853685179351050",
+  //channel that the tip message will reply in if Multi or Role tip is used.
+  "botspamchannels": ["429134627823812612", "429852470886268929"]
+  }
+}
